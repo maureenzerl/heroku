@@ -1,0 +1,143 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+
+body {
+    background-color: #B9E0FF !important;
+}
+
+.font {
+    color: #000000 !important;
+}
+
+.font:hover {
+    color: #6C4AB6 !important;
+    font-weight: 500;
+}
+
+.crs {
+    width: 100%;
+}
+
+.card1 {
+    margin: 5% 20%;
+    text-align: center;
+    width: 60%;
+    background-color: #252525 !important;
+    color: white !important;
+}
+
+.btn1 {
+    background-color: #6C4AB6 !important;
+    color: white !important;
+}
+
+.btn1:hover {
+    background-color: #2ee5da !important;
+    color: black !important;
+}
+
+.btn2,
+.book-btn2:hover {
+    background-color: #3A8891 !important;
+    color: white !important;
+    font-weight: 500;
+}
+
+.srch {
+    background-color: transparent;
+    color: white !important;
+    outline: none;
+}
+
+input {
+    border: none;
+    background: transparent;
+}
+
+::placeholder {
+    color: white;
+    opacity: 1;
+}
+
+.carousel-inner {
+    margin: 50px;
+}
+
+.img1 {
+    background-color: #B2B2B2 !important;
+    width: 200px;
+    height: 200px;
+}
+
+.book-btn {
+    background-color: #6C4AB6 !important;
+    color: white !important;
+    border: none;
+    padding: 10px;
+}
+
+.info-btn:hover {
+    background-color: #3A8891 !important;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+
+.arrow-down {
+    height: 50%;
+}
+
+.opt {
+    background-color: white !important;
+    text-align: left !important;
+    color: #000000 !important;
+}
+
+.srch2 {
+    background-color: #6C4AB6 !important;
+    color: white !important;
+}
+
+
+.img2 {
+    border-radius: 5% !important;
+    padding: 10px !important;
+}
+
+.div2 {
+    border-right: 3px dotted #6C4AB6
+}
+
+.img-icon {
+    width: 20px;
+}
+
+.book-btn2 {
+    background-color: #6C4AB6 !important;
+    color: white !important;
+    border: none;
+    width: 75%;
+    margin-top: 20%;
+}
+
+.ftr {
+    background-color: #6C4AB6 !important;
+}
+
+.font1 {
+    color: white !important;
+}
+
+.font1:hover {
+    font-weight: 500 !important;
+}
+
+.bg {
+    margin-top: 30px !important;
+}
+
+.bg1 {
+    color: white !important;
+    background-color: #6C4AB6 !important;
+    padding: 5px !important;
+    border-radius: 20% !important;
+}
